@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "75278817981",
+    "project_id": "fir-all-in-one-jamal-sir",
+    "storage_bucket": "fir-all-in-one-jamal-sir.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75278817981:android:af926aa8beabf9531df5d4",
+        "android_client_info": {
+          "package_name": "com.example.firebase_all_in_one_jamal_sir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75278817981-klqscrkskr1jdl30e7adq5k25uhrv1n9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCExcDE4YKN59j_fPCvq7H4vNPwSh3ZUao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75278817981-klqscrkskr1jdl30e7adq5k25uhrv1n9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
